@@ -1,0 +1,175 @@
+23:07:59:130 [main] INFO  testCases.AccountRegistrationTest - ***Bojja Ganapathi ki Jai***
+23:08:09:274 [main] ERROR testCases.AccountRegistrationTest - Exception occurred: element not interactable
+  (Session info: chrome=133.0.6943.143)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d48d2da6e32dc4a80cdc9f5c2770120, clickElement {id=f.95FF0E796C09A76293F8BE887A13855B.d.120AB251BF9BB26192080A9E555177C7.e.48}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.143, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: C:\Users\SAIPAV~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62641}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62641/devtoo..., se:cdpVersion: 133.0.6943.143, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4d48d2da6e32dc4a80cdc9f5c2770120)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 4d48d2da6e32dc4a80cdc9f5c2770120
+10:38:43:058 [main] INFO  testCases.AccountRegistrationTest - ***Bojja Ganapathi ki Jai***
+10:38:43:654 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+10:38:44:075 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+10:38:44:079 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+10:38:45:604 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+10:38:45:604 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+10:38:45:669 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+10:38:45:671 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:40:26:167 [main] INFO  testCases.AccountRegistrationTest - ***Bojja Ganapathi ki Jai***
+10:40:26:769 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+10:40:27:255 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+10:40:27:259 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+10:40:29:030 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+10:40:29:031 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+10:40:29:102 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+10:40:29:105 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:47:24:439 [main] INFO  testCases.AccountRegistrationTest - ***Bojja Ganapathi ki Jai***
+10:47:25:138 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+10:47:25:733 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+10:47:25:738 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+10:47:27:000 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+10:47:27:000 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+10:47:37:033 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=134.0.6998.88)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fca679cdc47c52a13f8f82cb92a82ca2, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.88, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\SAIPAV~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63827/devtoo..., se:cdpVersion: 134.0.6998.88, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fca679cdc47c52a13f8f82cb92a82ca2
+10:47:37:034 [main] ERROR testCases.AccountRegistrationTest - Test failed..
+10:48:44:565 [main] INFO  testCases.AccountRegistrationTest - ***Bojja Ganapathi ki Jai***
+10:48:45:439 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+10:48:46:018 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+10:48:46:022 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+10:48:48:004 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+10:48:48:005 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+10:48:48:076 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+10:48:48:078 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:06:37:414 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:06:38:233 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:06:38:903 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:06:38:908 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:06:40:979 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:06:40:980 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:06:41:041 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:06:41:046 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:07:56:313 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:07:56:638 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:07:57:191 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:07:57:201 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:07:59:819 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:07:59:819 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:07:59:931 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:07:59:935 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:37:57:764 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:37:57:921 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:37:58:358 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:37:58:362 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:37:59:883 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:37:59:883 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:37:59:923 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:37:59:926 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:38:35:772 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:38:35:991 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:38:36:403 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:38:36:407 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:38:37:857 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:38:37:857 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:38:37:908 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:38:37:911 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:49:02:094 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:49:02:662 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:49:03:128 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:49:03:137 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:49:04:573 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:49:04:573 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:49:04:625 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:49:04:627 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:49:07:260 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:49:07:478 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:49:07:884 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:49:07:885 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:49:09:275 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:49:09:276 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:49:09:355 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:49:09:356 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:49:20:696 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:49:21:029 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:49:21:543 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:49:21:545 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:49:22:775 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:49:22:775 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:49:22:819 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:49:22:819 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:50:48:924 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:50:49:372 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:50:49:585 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:50:50:299 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:50:50:307 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:50:50:570 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:50:51:381 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:50:51:383 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:50:53:350 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:50:53:351 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:50:53:466 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:50:53:471 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:50:53:883 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:50:53:883 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:50:53:985 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:50:53:985 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:53:15:099 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:53:15:822 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:53:16:228 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+11:53:16:495 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:53:16:500 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:53:16:541 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+11:53:17:152 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+11:53:17:153 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+11:53:19:019 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:53:19:020 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:53:19:085 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:53:19:087 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+11:53:19:306 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+11:53:19:307 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+11:53:19:368 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+11:53:19:368 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+12:10:24:739 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+12:10:24:984 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+12:10:25:507 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+12:10:25:509 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+12:10:27:071 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+12:10:27:071 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+12:10:27:127 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+12:10:27:129 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+20:47:40:600 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC_002_LoginTest ******
+20:48:17:516 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC_002_LoginTest ******
+20:50:06:147 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC_002_LoginTest ******
+21:00:30:364 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC_002_LoginTest ******
+21:02:50:954 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC_002_LoginTest ******
+21:06:42:027 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC_002_LoginTest ******
+21:08:44:742 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC_002_LoginTest ******
+21:10:30:437 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC02_LoginPageTest ******
+21:13:21:710 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC02_LoginPageTest ******
+21:16:04:761 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC02_LoginPageTest ******
+21:16:07:065 [main] INFO  testCases.TC02_LoginPageTest - ****** Finished TC02_LoginPageTest ******
+18:53:58:840 [main] INFO  testCases.AccountRegistrationTest - ***Test started..Bojja Ganapathi ki Jai***
+18:53:59:353 [main] INFO  testCases.AccountRegistrationTest - ***clicked on MyAccount***
+18:53:59:995 [main] INFO  testCases.AccountRegistrationTest - ***Clicked on Register***
+18:54:00:001 [main] INFO  testCases.AccountRegistrationTest - ***Providing customer details***
+18:54:02:028 [main] INFO  testCases.AccountRegistrationTest - ***Validating expected message***
+18:54:02:028 [main] INFO  testCases.AccountRegistrationTest - Retrieving confirmation message...
+18:54:02:084 [main] INFO  testCases.AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+18:54:02:089 [main] INFO  testCases.AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest..Shivoham *****
+18:55:18:288 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC02_LoginPageTest ******
+18:55:20:906 [main] INFO  testCases.TC02_LoginPageTest - ****** Finished TC02_LoginPageTest ******
+19:01:28:787 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC02_LoginPageTest ******
+19:01:30:789 [main] INFO  testCases.TC02_LoginPageTest - ****** Finished TC02_LoginPageTest ******
+14:57:28:923 [main] INFO  testCases.TC02_LoginPageTest - ****** Starting TC02_LoginPageTest ******
+14:57:31:969 [main] INFO  testCases.TC02_LoginPageTest - ****** Finished TC02_LoginPageTest ******
+17:09:34:696 [main] INFO  sfdcLogin.TC02_LoginPageTest3 - ****** Starting TC02_LoginPageTest ******
+17:18:45:196 [main] INFO  sfdcLogin.TC02_LoginPageTest3 - ****** Starting TC02_LoginPageTest ******
+17:23:56:948 [main] INFO  sfdcLogin.TC02_LoginPageTest3 - ****** Starting TC02_LoginPageTest ******
+17:25:37:150 [main] INFO  sfdcLogin.TC02_LoginPageTest3 - ****** Starting TC02_LoginPageTest ******
